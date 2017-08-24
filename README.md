@@ -1,7 +1,6 @@
-# seniorjobs
+# tvshows
 
-> Seniorjobs es una web dedicada a la búsqueda de empleo para personas mayores de 50 años.
-
+> tvshows is a simple app created with Vue.js just for fun and training.
 ## Build Setup
 
 ``` bash
