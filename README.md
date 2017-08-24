@@ -1,2 +1,18 @@
-# tvshows
-Tv shows app developed in Vue.js just to learn how the framework works and train with JavaScript, Vue and Webpack.
+# seniorjobs
+
+> Seniorjobs es una web dedicada a la búsqueda de empleo para personas mayores de 50 años.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
